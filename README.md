@@ -1,5 +1,5 @@
 # Task Manager Frontend
-# Task
+
 ## Setup
 
 1. Install dependencies:
